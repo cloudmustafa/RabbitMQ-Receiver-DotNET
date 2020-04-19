@@ -1,0 +1,10 @@
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\bin\Debug\netcoreapp2.0\ConsoleCoreReceiver.deps.json
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\bin\Debug\netcoreapp2.0\ConsoleCoreReceiver.runtimeconfig.json
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\bin\Debug\netcoreapp2.0\ConsoleCoreReceiver.runtimeconfig.dev.json
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\bin\Debug\netcoreapp2.0\ConsoleCoreReceiver.dll
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\bin\Debug\netcoreapp2.0\ConsoleCoreReceiver.pdb
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\obj\Debug\netcoreapp2.0\ConsoleCoreReceiver.AssemblyInfoInputs.cache
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\obj\Debug\netcoreapp2.0\ConsoleCoreReceiver.AssemblyInfo.cs
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\obj\Debug\netcoreapp2.0\ConsoleCoreReceiver.dll
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\obj\Debug\netcoreapp2.0\ConsoleCoreReceiver.pdb
+C:\Projects\RabbitMQ\ConsoleCoreRabbitReceiver\ConsoleCoreReceiver\ConsoleCoreReceiver\obj\Debug\netcoreapp2.0\ConsoleCoreReceiver.csprojAssemblyReference.cache
